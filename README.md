@@ -1,6 +1,6 @@
 # Django CRM App
 
-![Project Logo](https://placekitten.com/200/150) <!-- You can replace this with your project logo or a relevant image -->
+![Project Home Page](dcrm/image/Thumbnail.png) <!-- You can replace this with your project logo or a relevant image -->
 
 **Django CRM App** is a Customer Relationship Management (CRM) system built using Django. It provides a platform for managing customer interactions, sales, and other business-related data.
 
