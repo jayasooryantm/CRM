@@ -26,7 +26,7 @@ To get started with the Django CRM App, follow these steps:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/django-crm-app.git
-   cd django-crm-app
+   cd dcrm
    ```
 
 2. **Create a Virtual Environment**:
